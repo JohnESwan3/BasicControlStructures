@@ -1,0 +1,15 @@
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.exe
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.deps.json
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.runtimeconfig.json
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.dll
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.pdb
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.csproj.AssemblyReference.cache
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfo.cs
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.dll
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\refint\InputOutput.dll
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.pdb
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.genruntimeconfig.cache
+C:\Users\johne\OneDrive\Documents\code\BackEnd\Udemy\C#\InputOutput\InputOutput\obj\Debug\net6.0\ref\InputOutput.dll
