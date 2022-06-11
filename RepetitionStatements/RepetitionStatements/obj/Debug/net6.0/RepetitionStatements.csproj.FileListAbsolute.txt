@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/bin/Debug/net6.0/RepetitionStatements
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/bin/Debug/net6.0/RepetitionStatements.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/bin/Debug/net6.0/RepetitionStatements.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/bin/Debug/net6.0/RepetitionStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/bin/Debug/net6.0/RepetitionStatements.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/refint/RepetitionStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/RepetitionStatements.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/RepetitionStatements/RepetitionStatements/obj/Debug/net6.0/ref/RepetitionStatements.dll
