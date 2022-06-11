@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/MathOperators/MathOperators/MathOperators.csproj": {}
+    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/ConditionalStatements.csproj": {}
   },
   "projects": {
-    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/MathOperators/MathOperators/MathOperators.csproj": {
+    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/ConditionalStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/MathOperators/MathOperators/MathOperators.csproj",
-        "projectName": "MathOperators",
-        "projectPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/MathOperators/MathOperators/MathOperators.csproj",
+        "projectUniqueName": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/ConditionalStatements.csproj",
+        "projectName": "ConditionalStatements",
+        "projectPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/ConditionalStatements.csproj",
         "packagesPath": "/home/johneswan3/.nuget/packages/",
-        "outputPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/MathOperators/MathOperators/obj/",
+        "outputPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/johneswan3/.nuget/NuGet/NuGet.Config"

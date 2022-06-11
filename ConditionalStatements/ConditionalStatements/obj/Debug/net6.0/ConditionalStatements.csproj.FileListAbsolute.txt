@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/refint/ConditionalStatements.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ConditionalStatements/ConditionalStatements/obj/Debug/net6.0/ref/ConditionalStatements.dll
