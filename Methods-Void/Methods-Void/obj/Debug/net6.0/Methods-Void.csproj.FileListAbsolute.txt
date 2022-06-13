@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/bin/Debug/net6.0/Methods-Void
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/bin/Debug/net6.0/Methods-Void.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/bin/Debug/net6.0/Methods-Void.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/bin/Debug/net6.0/Methods-Void.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/bin/Debug/net6.0/Methods-Void.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/refint/Methods-Void.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/Methods-Void.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-Void/Methods-Void/obj/Debug/net6.0/ref/Methods-Void.dll
