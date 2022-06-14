@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/bin/Debug/net6.0/Methods-ValueReturning
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/bin/Debug/net6.0/Methods-ValueReturning.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/bin/Debug/net6.0/Methods-ValueReturning.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/bin/Debug/net6.0/Methods-ValueReturning.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/bin/Debug/net6.0/Methods-ValueReturning.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/refint/Methods-ValueReturning.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/Methods-ValueReturning.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Methods-ValueReturning/Methods-ValueReturning/obj/Debug/net6.0/ref/Methods-ValueReturning.dll
