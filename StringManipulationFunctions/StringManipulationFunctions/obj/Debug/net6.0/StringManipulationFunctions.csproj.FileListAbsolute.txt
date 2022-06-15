@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/bin/Debug/net6.0/StringManipulationFunctions
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/bin/Debug/net6.0/StringManipulationFunctions.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/bin/Debug/net6.0/StringManipulationFunctions.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/bin/Debug/net6.0/StringManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/bin/Debug/net6.0/StringManipulationFunctions.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/refint/StringManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/StringManipulationFunctions.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/StringManipulationFunctions/StringManipulationFunctions/obj/Debug/net6.0/ref/StringManipulationFunctions.dll
