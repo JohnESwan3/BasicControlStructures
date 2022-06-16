@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/bin/Debug/net6.0/DateTimeManipulationFunctions
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/bin/Debug/net6.0/DateTimeManipulationFunctions.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/bin/Debug/net6.0/DateTimeManipulationFunctions.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/bin/Debug/net6.0/DateTimeManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/bin/Debug/net6.0/DateTimeManipulationFunctions.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/refint/DateTimeManipulationFunctions.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/DateTimeManipulationFunctions.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/Debug/net6.0/ref/DateTimeManipulationFunctions.dll
