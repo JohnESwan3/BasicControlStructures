@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/DateTimeManipulationFunctions.csproj": {}
+    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj": {}
   },
   "projects": {
-    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/DateTimeManipulationFunctions.csproj": {
+    "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/DateTimeManipulationFunctions.csproj",
-        "projectName": "DateTimeManipulationFunctions",
-        "projectPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/DateTimeManipulationFunctions.csproj",
+        "projectUniqueName": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj",
+        "projectName": "ExceptionHandling",
+        "projectPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj",
         "packagesPath": "/home/johneswan3/.nuget/packages/",
-        "outputPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/DateTimeManipulationFunctions/DateTimeManipulationFunctions/obj/",
+        "outputPath": "/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/johneswan3/.nuget/NuGet/NuGet.Config"

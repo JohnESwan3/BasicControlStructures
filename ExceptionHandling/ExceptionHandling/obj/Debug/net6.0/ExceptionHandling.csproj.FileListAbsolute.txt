@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/refint/ExceptionHandling.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ExceptionHandling/ExceptionHandling/obj/Debug/net6.0/ref/ExceptionHandling.dll
