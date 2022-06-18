@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/bin/Debug/net6.0/Arrays
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/bin/Debug/net6.0/Arrays.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/bin/Debug/net6.0/Arrays.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/Arrays/Arrays/obj/Debug/net6.0/ref/Arrays.dll
