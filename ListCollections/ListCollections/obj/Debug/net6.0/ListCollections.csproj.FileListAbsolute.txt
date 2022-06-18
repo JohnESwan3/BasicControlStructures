@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/bin/Debug/net6.0/ListCollections
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/bin/Debug/net6.0/ListCollections.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/bin/Debug/net6.0/ListCollections.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/bin/Debug/net6.0/ListCollections.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/bin/Debug/net6.0/ListCollections.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/refint/ListCollections.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ListCollections.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/BasicControlStructures/ListCollections/ListCollections/obj/Debug/net6.0/ref/ListCollections.dll
